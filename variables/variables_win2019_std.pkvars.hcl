@@ -1,6 +1,7 @@
-iso_url="./iso/SW_DVD9_Win_Server_STD_CORE_2019_1809.17_64Bit_English_DC_STD_MLF_X22-69933.ISO"
+#SAS will expire on 12/29/2021 11:59 PM
+iso_url="https://jenkinsdevtestrepo2.blob.core.windows.net/isos/en-us_windows_server_2019_updated_aug_2021_x64_dvd_a6431a28.iso?sv=2020-04-08&st=2021-09-03T11%3A30%3A50Z&se=2021-12-29T22%3A59%3A00Z&sr=b&sp=r&sig=mwBkQn%2BboNJCE5nrroK%2F3KZuWCh1B91FncyHap0cV%2FQ%3D"
 iso_checksum_type="sha256"
-iso_checksum="d894b01db8a856bfbcf9e18d9202a6e98c1d4bba147dc7be9763f28ca68aefdb"
+iso_checksum="0067afe7fdc4e61f677bd8c35a209082aa917df9c117527fc4b2b52a447e89bb"
 switch_name="vSwitch"
 vlan_id=""
 vm_name="packer-windows2019-g2"
