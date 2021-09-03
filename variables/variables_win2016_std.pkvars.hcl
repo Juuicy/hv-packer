@@ -1,6 +1,7 @@
-iso_url=".\\iso\\SW_DVD9_Win_Server_STD_CORE_2016_64Bit_English_-4_DC_STD_MLF_X21-70526.ISO"
+#SAS will expire on 12/29/2021 11:59 PM
+iso_url="https://jenkinsdevtestrepo2.blob.core.windows.net/isos/en_windows_server_2016_updated_aug_2021_x64_dvd_ccpcustom.iso?sv=2020-04-08&st=2021-09-03T11%3A32%3A52Z&se=2021-12-29T22%3A59%3A00Z&sr=b&sp=r&sig=KyXllYwfNao3tQOj5E3rICJTAgH0V85l%2F%2B5y%2BGLWgCU%3D"
 iso_checksum_type="sha256"
-iso_checksum="47919ce8b4993f531ca1fa3f85941f4a72b47ebaa4d3a321fecf83ca9d17e6b8"
+iso_checksum="b7defe874c859b23466dc213533977e49dd82b608474899eacc58d108320575d"
 switch_name="vSwitch"
 vlan_id=""
 vm_name="packer-windows2016-g2"
